@@ -283,7 +283,7 @@ Tolong Donasikan Ke [Kajikasama](https://kajikasama.itch.io/) agar ~~saya bisa m
 Jika Anda Butuh Saya Silahkan Hubungi :
 - Discord : Kajikasama#5372
 - WA : 087701430894
-- FB Massenger : [Agus Chandra](https://fb.me/banana.garuda)
-- DM Instagram : [guschan12](https://ig.me/guschan12/)
+- FB  : [Agus Chandra](https://fb.me/banana.garuda)
+- IG : [guschan12](https://ig.me/guschan12/)
 
 
