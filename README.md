@@ -34,8 +34,7 @@ Game Music : [**Fl Studio 20**](https://www.image-line.com/flstudio/) / Minta Ba
 </br>
 Programming : Klo Udh Stuck Cari Youtube Atau Nanya Ke Mastah `Programming` `C#` / Ke Dosen yg pernah buat game
 
-Translating : `Alfa WF` in English 
-(yeah you know i’m not fluent of english language / siapapun boleh sih
+Translating : (yeah you know i’m not fluent in english language ) siapapun boleh sih ..
 
 Uploading in : kajikasama itch account di event Touhou Jam 6 maybe
 My Itch : [Kajikasama](https://kajikasama.itch.io/)
@@ -279,7 +278,7 @@ Penambahan Fitur Suhu Tubuh
 
 Tolong Donasikan Ke [Kajikasama](https://kajikasama.itch.io/) agar ~~saya bisa makan enak pokoknya~~ *plak saya bisa semangat melanjutkan game ini ...
 
->Sorry Project di Itch nya menyusul mohon bersabar ..
+>Sorry Project di itch nya masih dalam prototype mohon bersabar :blush:
 
 **The Girls Are Preparing To Developing Please Wxait...**
 
