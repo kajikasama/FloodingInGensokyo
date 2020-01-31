@@ -172,7 +172,7 @@ SP : `30`
 berusaha untuk menyelamatkan semua buku dan gulungan suci di suzunaan ..
 </br>**Menulis sesuatu dapat menambah `AP` secara drastis**
 
-**`Perspektif Shiki Eiki Yamaxanadu`**
+**`Perspektif Eiki Shiki Yamaxanadu`**
 </br>
 >![Eiki Shiki Yamaxanadu](eiki-armed.png)
 
@@ -278,5 +278,12 @@ Tolong Donasikan Ke [Kajikasama](https://kajikasama.itch.io/) agar ~~saya bisa m
 
 >Sorry Project di itch nya masih dalam prototype mohon bersabar :blush:
 
-**The Girls Are Preparing To Developing Please Wait...**
+**The ~~Girls~~ Boys Are Preparing To Developing Please Wait...**
+
+Jika Anda Butuh Saya Silahkan Hubungi :
+- Discord : Kajikasama#5372
+- WA : 087701430894
+- FB Massenger : [Agus Chandra](https://fb.me/banana.garuda)
+- DM Instagram : [guschan12](https://ig.me/guschan12/)
+
 
