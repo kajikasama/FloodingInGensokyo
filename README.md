@@ -1,5 +1,4 @@
-![Flooding In Gensokyo](judul-ver2.png)
-![this is Background](arena2.png)
+![](background.jpg)
 
 `*This Image Taken Before Disaster`
 </br>
@@ -125,11 +124,11 @@ Acak Persektif Tetapi Akan Lebih banyak status pointnnya
 **`Perspetif Yukari Yakumo`**
 </br>
 >![Yukari Yakumo](yukari-armed.png)
-</br>
+
 HP: `500`
-</br>
+
 MP: `50`
-</br>
+
 SP: `30` + `50`
 
 genangan ini kenapa bisa masuk sampai di hakurei barrier iya ?
@@ -138,52 +137,51 @@ yukari bertugas untuk  menyelamatkan semua penduduk yg berada dekat pemukimannya
 *Teleport Special effect Kereta*
 
 **`Perspektif Ran`**
-</br>
+
 HP : `250`
-</br>
+
 MP : `50`
-</br>
+
 SP : `50`
-</br>
 
 Menjaga Agar Air Tidak Masuk Sampai Ke Kamar Tidur / Tempat Makan dan Berusaha Menyelamatkan Chen jikalau Tenggelam
 
 *Shikigami Multitasking, Special effect dapat berkomunikasi kepada semua keluarga Yakumo (chen , yukari)*
 
 **`Perspektif Chen`**
-</br>
+
 HP : `150`
-</br>
+
 MP : `50`
-</br>
+
 SP : `30`
-</br>
+
 Membantu Yukari dan Ran untuk mengamankan semua barang-barang di seluruh kamarnya 
 **Kecepatan** yang diutamakan pada perspektif ini
 
 **`Perspektif Kosuzu Motoori`**
 </br>
 >![Kosuzu Motoori](kosuzu-armed.png)
-</br>
+
 HP : `400`
-</br>
+
 AP : `50 `+` 20`
-</br>
+
 SP : `30`
-</br>
+
 berusaha untuk menyelamatkan semua buku dan gulungan suci di suzunaan ..
 </br>**Menulis sesuatu dapat menambah `AP` secara drastis**
 
 **`Perspektif Eiki Shiki`**
 </br>
 >![Eiki Shiki Yamaxanadu](eiki-armed.png)
-</br>
+
 HP : `2500`
-</br>
+
 MP : `500`
-</br>
+
 SP : `500` + `100`
-</br>
+
 berusaha meyakinkan agar mereka semua bisa menyelamatkan gensokyo lagi 
 <br>
 Yama membuat effect Kebal Selama `5` `Menit`
