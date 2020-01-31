@@ -4,7 +4,7 @@
 `*This Image Taken Before Disaster`
 </br>
 
-Nama Game : **Flooding in Gensokyo ; The Random Perspectif**
+Nama Game : **Flooding in Gensokyo ; The Random Perspective**
 </br>
 Character : **Reimu, Marisa, Yukari, Ran, Chen, Kosuzu, Eiki**
 </br>
