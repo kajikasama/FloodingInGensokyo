@@ -280,5 +280,5 @@ Tolong Donasikan Ke [Kajikasama](https://kajikasama.itch.io/) agar ~~saya bisa m
 
 >Sorry Project di itch nya masih dalam prototype mohon bersabar :blush:
 
-**The Girls Are Preparing To Developing Please Wxait...**
+**The Girls Are Preparing To Developing Please Wait...**
 
