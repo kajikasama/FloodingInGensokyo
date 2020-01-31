@@ -1,9 +1,8 @@
-**<h1>`Flooding in Gensokyo`</h1>**
-<h4>ini bukan banjir biasa ini banjir di gensokyo</h4>
-
+![Flooding In Gensokyo](judul.png)
 ![this is Background](arena2.png)
-</br>
+
 `*This Image Taken Before Disaster`
+</br>
 
 Nama Game : **Flooding in Gensokyo ; The Random Perspectif**
 </br>
