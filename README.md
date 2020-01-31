@@ -26,12 +26,12 @@ Design : *Pixel Art Dari Aku Sendiri Yang Buat / Ngambil Foto Dari Google jika u
 </br>
 UI Design : Saya sendiri
 </br>
-Engine : **`Unity 2D`**
+Engine : [**Unity 2D**](https://unity.com/)
 </br>
-Text Editor : **`Visual Studio Code`**
+Text Editor : [**Visual Studio Code**](https://code.visualstudio.com/)
 </br>
 
-Game Music : **Fl Studio 20** / Minta Bantuan Temen yg bisa buat soundtrack / ngambil dri google
+Game Music : [**Fl Studio 20**](https://www.image-line.com/flstudio/) / Minta Bantuan Temen yg bisa buat soundtrack / ngambil dri google
 </br>
 Programming : Klo Udh Stuck Cari Youtube Atau Nanya Ke Mastah `Programming` `C#` / Ke Dosen yg pernah buat game
 
