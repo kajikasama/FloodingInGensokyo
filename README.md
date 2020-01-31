@@ -136,7 +136,7 @@ yukari bertugas untuk  menyelamatkan semua penduduk yg berada dekat pemukimannya
 
 *Teleport Special effect Kereta*
 
-**`Perspektif Ran`**
+**`Perspektif Ran Yakumo`**
 
 HP : `250`
 
@@ -148,7 +148,7 @@ Menjaga Agar Air Tidak Masuk Sampai Ke Kamar Tidur / Tempat Makan dan Berusaha M
 
 *Shikigami Multitasking, Special effect dapat berkomunikasi kepada semua keluarga Yakumo (chen , yukari)*
 
-**`Perspektif Chen`**
+**`Perspektif Chen Yakumo`**
 
 HP : `150`
 
@@ -172,7 +172,7 @@ SP : `30`
 berusaha untuk menyelamatkan semua buku dan gulungan suci di suzunaan ..
 </br>**Menulis sesuatu dapat menambah `AP` secara drastis**
 
-**`Perspektif Eiki Shiki`**
+**`Perspektif Shiki Eiki Yamaxanadu`**
 </br>
 >![Eiki Shiki Yamaxanadu](eiki-armed.png)
 
