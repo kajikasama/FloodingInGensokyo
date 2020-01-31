@@ -109,11 +109,11 @@ Semua Penduduk Dan Seisi Gensokyo Benar-Benar Terendam Jikalau Itu Terjadi Dan S
 
 `Perspektif Reimu Hakurei / Marisa Kirisame`
 </br>
-**HP : `250` + `240`**
+HP : `250` + `240`
 </br>
-**MP : `50` + `60`**
+MP : `50` + `60`
 </br>
-**SP : `80` + `80`**
+SP : `80` + `80`
 </br>
 sama seperti pokok permasalahan pertama tetapi disini kecepatan bukan hanya evakuasi orang saja tetapi semua barang-barang penting mungkin saja itu uang ata emas hanyut
 
@@ -128,11 +128,11 @@ Acak Persektif Tetapi Akan Lebih banyak status pointnnya
 </br>
 >![Yukari Yakumo](yukari-armed.png)
 </br>
-**HP** : `500`
+HP: `500`
 </br>
-**MP** : `50`
+MP: `50`
 </br>
-**SP** : `30` + `50`
+SP: `30` + `50`
 
 genangan ini kenapa bisa masuk sampai di hakurei barrier iya ?
 yukari bertugas untuk  menyelamatkan semua penduduk yg berada dekat pemukimannya dan memperbaiki hakurei barrer yang dirusak oleh banjir misterius tersebut
@@ -141,11 +141,11 @@ yukari bertugas untuk  menyelamatkan semua penduduk yg berada dekat pemukimannya
 
 **`Perspektif Ran`**
 </br>
-**HP** : `250`
+HP : `250`
 </br>
-**MP** : `50`
+MP : `50`
 </br>
-**SP** : `50`
+SP : `50`
 </br>
 
 Menjaga Agar Air Tidak Masuk Sampai Ke Kamar Tidur / Tempat Makan dan Berusaha Menyelamatkan Chen jikalau Tenggelam
@@ -154,11 +154,11 @@ Menjaga Agar Air Tidak Masuk Sampai Ke Kamar Tidur / Tempat Makan dan Berusaha M
 
 **`Perspektif Chen`**
 </br>
-**HP** : `150`
+HP : `150`
 </br>
-**MP** : `50`
+MP : `50`
 </br>
-**SP** : `30`
+SP : `30`
 </br>
 Membantu Yukari dan Ran untuk mengamankan semua barang-barang di seluruh kamarnya 
 **Kecepatan** yang diutamakan pada perspektif ini
@@ -167,11 +167,11 @@ Membantu Yukari dan Ran untuk mengamankan semua barang-barang di seluruh kamarny
 </br>
 >![Kosuzu Motoori](kosuzu-armed.png)
 </br>
-**HP** : `400`
+HP : `400`
 </br>
-**AP** : `50 `+` 20`
+AP : `50 `+` 20`
 </br>
-**SP** : `30`
+SP : `30`
 </br>
 berusaha untuk menyelamatkan semua buku dan gulungan suci di suzunaan ..
 </br>**Menulis sesuatu dapat menambah `AP` secara drastis**
@@ -180,15 +180,15 @@ berusaha untuk menyelamatkan semua buku dan gulungan suci di suzunaan ..
 </br>
 >![Eiki Shiki Yamaxanadu](eiki-armed.png)
 </br>
-**HP : `2500`**
+HP : `2500`
 </br>
-**MP : `500`**
+MP : `500`
 </br>
-**SP : `500` + `100`**
+SP : `500` + `100`
 </br>
 berusaha meyakinkan agar mereka semua bisa menyelamatkan gensokyo lagi 
 <br>
-**Yama membuat effect Kebal Selama `5` `Menit`**
+Yama membuat effect Kebal Selama `5` `Menit`
 
 
 __<h2>Gameplay & Items</h2>__
