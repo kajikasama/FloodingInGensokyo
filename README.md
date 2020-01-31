@@ -1,4 +1,4 @@
-![Flooding In Gensokyo](judul.png)
+![Flooding In Gensokyo](judul-ver2.png)
 ![this is Background](arena2.png)
 
 `*This Image Taken Before Disaster`
@@ -278,6 +278,8 @@ Penambahan Fitur Suhu Tubuh
 </br>
 
 Tolong Donasikan Ke [Kajikasama](https://kajikasama.itch.io/) agar ~~saya bisa makan enak pokoknya~~ *plak saya bisa semangat melanjutkan game ini ...
+
+>Sorry Project di Itch nya menyusul mohon bersabar ..
 
 **The Girls Are Preparing To Developing Please Wxait...**
 
