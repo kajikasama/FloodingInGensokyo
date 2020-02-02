@@ -15,7 +15,7 @@ Programming : [Agus Chandra](https://fb.me/banana.garuda)
 </br>
 Level Design : [Agus Chandra](https://fb.me/banana.garuda)
 </br>
-Music Design : [Agus Chandra](https://fb.me/banana.garuda), Widiatmika
+Music Design : [Agus Chandra](https://fb.me/banana.garuda)
 </br>
 
 Tampilan : 2D / 2,5D Perspektif maybe
@@ -33,14 +33,14 @@ Game Music : [**Fl Studio 20**](https://www.image-line.com/flstudio/) / Minta Ba
 </br>
 Programming : Klo Udh Stuck Cari Youtube Atau Nanya Ke Mastah `Programming` `C#` / Ke Dosen yg pernah buat game
 
-Translating : (yeah you know i’m not fluent in english language ) siapapun boleh sih ..
+Translating : (yeah you know i’m not fluent in english language ) siapapun boleh sih jdi translater dan bebas bahasa yg mau di translate (contoh si A mau translate ke bahasa bali) nanti kutambahin opsi bahasa klo ada yg mau jadi translaterku ..
 
 Uploading in : kajikasama itch account di event Touhou Jam 6 maybe
 My Itch : [Kajikasama](https://kajikasama.itch.io/)
 
 </br>
 
->__<h1>URGENT!!</h1>__
+>__<h1>WARNING!!</h1>__
 
 **`JIKALAU BENAR-BENAR IKUTAN TOHOU JAM 6 MAKA HARUS SELESAI SEBELUM DEADLINE YAITU 3 HARI !! / SEHARI FULL`**
 
@@ -184,7 +184,7 @@ SP : `500` + `100`
 
 berusaha meyakinkan agar mereka semua bisa menyelamatkan gensokyo lagi 
 <br>
-Yama membuat effect Kebal Selama `5` `Menit`
+Yama membuat effect Kebal Selama `3-5` `Menit`
 
 
 __<h2>Gameplay & Items</h2>__
@@ -195,7 +195,7 @@ Singkatan  | Akronim   | Fungsi
 **SP** | Stamina Point | Untuk Melakukan Aksi Seperti Berlari, Menyerang ,Menangkis, Dll
 **MP** | Magic Point | Untuk Skill maupun Spell Card (Kecuali Kosuzu & Penduduk) dapat saat menyerang youkai
 **AP** | Alpha Point | Pengganti MP pada kosuzu (di dapatkan saat menulis sesuatu karangan)
-**BP** | Banjir Point | Pengukuran Air di pemukiman (0-200%)
+**FP** | Flood Point | Pengukuran Air di pemukiman (0-200%)
 **SPt** | Skill Point | Satuan Skill Point Utk upgrade skill terbaru
 **Rp.** | Rupiah | Mata uang Rupiah (bisa di tukar di daiyosei / mystia)
 **Y.** | Yen | Mata Uang Resmi Utk Membeli Barang dan Rumah
