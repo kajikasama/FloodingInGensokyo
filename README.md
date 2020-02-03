@@ -1,4 +1,4 @@
-![](background.jpg)
+![Flooding in Gensokyo](background.jpg)
 
 `*This Image Taken Before Disaster`
 </br>
@@ -18,6 +18,7 @@ Level Design : [Agus Chandra](https://fb.me/banana.garuda)
 Music Design : [Agus Chandra](https://fb.me/banana.garuda)
 </br>
 
+
 Tampilan : 2D / 2,5D Perspektif maybe
 </br>
 Design : *Pixel Art Dari Aku Sendiri Yang Buat / Ngambil Foto Dari Google jika udh `deadline`
@@ -28,6 +29,9 @@ Engine : [**Unity 2D**](https://unity.com/)
 </br>
 Text Editor : [**Visual Studio Code**](https://code.visualstudio.com/)
 </br>
+Pixel Art Application : [**Adobe Photoshop**](https://www.adobe.com/products/photoshop.html), [**Aseprite**](https://www.aseprite.org/)
+<br>
+Reference pixel art : twitter, danbooru, pixiv, pinterest
 
 Game Music : [**Fl Studio 20**](https://www.image-line.com/flstudio/) / Minta Bantuan Temen yg bisa buat soundtrack / ngambil dri google
 </br>
