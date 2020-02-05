@@ -141,6 +141,8 @@ yukari bertugas untuk  menyelamatkan semua penduduk yg berada dekat pemukimannya
 *Teleport Special effect Kereta*
 
 **`Perspektif Ran Yakumo`**
+</br>
+>![Ran Yakumo](ran-yakumo-armed.png)
 
 HP : `250`
 
