@@ -155,6 +155,8 @@ Menjaga Agar Air Tidak Masuk Sampai Ke Kamar Tidur / Tempat Makan dan Berusaha M
 *Shikigami Multitasking, Special effect dapat berkomunikasi kepada semua keluarga Yakumo (chen , yukari)*
 
 **`Perspektif Chen Yakumo`**
+</br>
+>![Chen Yakumo](chen-armed.png)
 
 HP : `150`
 
